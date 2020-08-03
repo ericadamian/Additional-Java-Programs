@@ -1,0 +1,4 @@
+ericadamian@Erics-MBP-2 desktop % javac ADTMatrix.java
+ericadamian@Erics-MBP-2 desktop % java ADTMatrix      
+The first occurence of the largest element is 11 at position/indices (2, 2).
+The first occurence of the largest element is Zephyr at position/indices (0, 3).ericadamian@Erics-MBP-2 desktop % 

@@ -1,0 +1,12 @@
+ericadamian@Erics-MBP-2 ~ % cd desktop
+ericadamian@Erics-MBP-2 desktop % cd FileIO        
+ericadamian@Erics-MBP-2 FileIO % javac FileIO.java
+ericadamian@Erics-MBP-2 FileIO % java FileIO
+Please enter an input filename: file.txt
+Exception in thread "main" java.io.FileNotFoundException: file.txt (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:196)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.util.Scanner.<init>(Scanner.java:611)
+	at FileIO.main(FileIO.java:19)
+ericadamian@Erics-MBP-2 FileIO % 

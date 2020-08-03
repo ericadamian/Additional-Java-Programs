@@ -1,0 +1,10 @@
+ericadamian@Erics-MBP-2 ~ % cd desktop
+ericadamian@Erics-MBP-2 desktop % cd FileIO
+ericadamian@Erics-MBP-2 FileIO % javac FileIO.java
+ericadamian@Erics-MBP-2 FileIO % java FileIO
+Please enter an input filename: input.txt
+Please enter an output filename: output.txt
+Please enter another output filename (append): append.txt
+
+New output/append files created: characters changed to uppercase. 
+ericadamian@Erics-MBP-2 FileIO % 

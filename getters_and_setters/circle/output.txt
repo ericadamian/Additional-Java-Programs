@@ -1,0 +1,18 @@
+ericadamian@Erics-MBP-2 Circle % javac Main.java
+ericadamian@Erics-MBP-2 Circle % java Main
+Enter the circle's radius in inches: 10
+Area of the circle: 314.159 inches.
+Diameter of the circle: 20.0 inches.
+Circumference of the circle: 62.8318 inches.
+ericadamian@Erics-MBP-2 Circle % java Main
+Enter the circle's radius in inches: 15
+Area of the circle: 706.85775 inches.
+Diameter of the circle: 30.0 inches.
+Circumference of the circle: 94.2477 inches.
+ericadamian@Erics-MBP-2 Circle % java Main
+Enter the circle's radius in inches: 20
+Area of the circle: 1256.636 inches.
+Diameter of the circle: 40.0 inches.
+Circumference of the circle: 125.6636 inches.
+ericadamian@Erics-MBP-2 Circle % 
+

@@ -1,0 +1,13 @@
+ericadamian@Erics-MBP-2 desktop % cd television
+ericadamian@Erics-MBP-2 television % javac Main.java
+ericadamian@Erics-MBP-2 television % java Main
+A 55 inch Toshiba has been turned on.
+What channel do you want? 10
+Channel: 10 Volume: 21
+Too loud! Lowering the volume by 6.
+Channel: 10 Volume: 15
+
+A 19 inch Sharp TV has been turned on.
+What channel do you want? 42
+Channel: 42 Volume: 18
+ericadamian@Erics-MBP-2 television % 

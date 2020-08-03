@@ -1,0 +1,1 @@
+this is your input file. it contains lower case characters. you will create an output file and append file (any name and extension, such as output.txt and append.txt). it will then read and write to the new files.

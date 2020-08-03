@@ -1,0 +1,14 @@
+ericadamian@Erics-MBP-2 desktop % javac Fibonacci.java
+ericadamian@Erics-MBP-2 desktop % java Fibonacci      
+Please enter an int to calculate the n'th Fibonacci value: 18
+The Fibonacci value of 18 is 2584
+ericadamian@Erics-MBP-2 desktop % java Fibonacci      
+Please enter an int to calculate the n'th Fibonacci value: 72
+The Fibonacci value of 72 is 498454011879264
+ericadamian@Erics-MBP-2 desktop % java Fibonacci
+Please enter an int to calculate the n'th Fibonacci value: 183
+The Fibonacci value of 183 is 78569350599398894027251472817058687522
+ericadamian@Erics-MBP-2 desktop % java Fibonacci
+Please enter an int to calculate the n'th Fibonacci value: 538
+The Fibonacci value of 538 is 12186120053215401266088089750036680129447500839931526579142040485499190586947405129163013717701749148064044280919
+ericadamian@Erics-MBP-2 desktop %           

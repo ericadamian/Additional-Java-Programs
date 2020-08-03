@@ -1,0 +1,39 @@
+ericadamian@Erics-MBP-2 desktop % cd dynamic_array
+ericadamian@Erics-MBP-2 dynamic_array % javac Main.java
+ericadamian@Erics-MBP-2 dynamic_array % java Main
+***********************************************
+Program to dynamically adjust 3 arrays: 
+
+Array1 created.
+Elements added/removed from Array1.
+
+Array2 and Array3 created.
+
+Is Array1 equal to Array 2?
+Array1 is equal to Array2.
+
+Elements added/removed from Array2.
+Elements added/removed from Array3.
+
+Is Array1 equal to Array 2 now?
+Array 1 is not equal to Array2.
+
+Is Array1 equal to Array 3 now?
+Array 1 is not equal to Array3.
+
+Your current dynamically adjusted arrays: 
+Array 1: 7 -4 8 -6 11 14 6 
+Array 2: 7 -4 8 -6 11 14 4 9 
+Array 3: 7 -4 8 -6 11 14 6 9 
+
+Array1 number of positive integers: 5
+Array1 number of negative integers: 2
+
+Array2 number of positive integers: 6
+Array2 number of negative integers: 2
+
+Array3 number of positive integers: 6
+Array3 number of negative integers: 2
+***********************************************
+ericadamian@Erics-MBP-2 dynamic_array % 
+

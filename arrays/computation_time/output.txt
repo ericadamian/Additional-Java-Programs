@@ -1,0 +1,34 @@
+ericadamian@Erics-MBP-2 desktop % javac computation_time.java
+ericadamian@Erics-MBP-2 desktop % java computation_time
+
+Array computation time: 1.09316 ms
+Arraylist computation time: 1.678898 ms
+
+Array computation is faster than arraylist.
+
+ericadamian@Erics-MBP-2 desktop % java computation_time
+
+Array computation time: 1.178162 ms
+Arraylist computation time: 1.785337 ms
+
+Array computation is faster than arraylist.
+
+ericadamian@Erics-MBP-2 desktop % java computation_time
+
+Array computation time: 1.100471 ms
+Arraylist computation time: 2.262029 ms
+
+Array computation is faster than arraylist.
+
+ericadamian@Erics-MBP-2 desktop % java computation_time
+
+Array computation time: 1.070997 ms
+Arraylist computation time: 1.706207 ms
+
+Array computation is faster than arraylist.
+
+ericadamian@Erics-MBP-2 desktop % 
+
+
+
+

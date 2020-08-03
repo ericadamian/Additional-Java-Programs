@@ -1,0 +1,28 @@
+ericadamian@Erics-MBP-2 desktop % javac ArraySearch.java
+ericadamian@Erics-MBP-2 desktop % java ArraySearch      
+*****************************************************************
+Please enter 10 ints; prompt will ask for an int to search for.
+
+Following this, prompt will show:
+	 1) the number of positive integers in the array
+	 2) show the second smallest integer in the array
+	 3) the number of even integers in the array
+
+1) Please enter a number: 45
+2) Please enter a number: 87 
+3) Please enter a number: 52
+4) Please enter a number: -27
+5) Please enter a number: 31
+6) Please enter a number: -74
+7) Please enter a number: 12
+8) Please enter a number: -92
+9) Please enter a number: 38 
+10) Please enter a number: 21
+
+Please enter an int to search for in our array: 56
+Search result: Not found!
+
+The number of positive integers: 7
+The second smallest integer: -74
+The number of even integers: 5
+ericadamian@Erics-MBP-2 desktop % 

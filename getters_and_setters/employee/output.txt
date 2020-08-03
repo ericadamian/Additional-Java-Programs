@@ -1,0 +1,70 @@
+ericadamian@Erics-MBP-2 employee % javac Main.java
+ericadamian@Erics-MBP-2 employee % java Main
+
+********************************************************
+Program to compare and raise salaries for 5 employees.
+
+Employees with salaries: 
+	1) under $30,000 will see a $5,000 increase.
+	2) between $30,000 and $45,000 will see a $3,000 increase.
+	3) over $45,000 will see a 5% increase.
+
+Employee #1: 
+Enter 4-digit SSN: 7473
+Enter name: Fred
+Enter position: Software Developer
+Enter annual salary: $55000
+
+Employee #2: 
+Enter 4-digit SSN: 1522
+Enter name: Anna
+Enter position: Manager
+Enter annual salary: $44000
+
+Employee #3: 
+Enter 4-digit SSN: 8351
+Enter name: Ben
+Enter position: Accountant
+Enter annual salary: $28500
+
+Employee #4: 
+Enter 4-digit SSN: 6220
+Enter name: Joan
+Enter position: Teacher
+Enter annual salary: $36900
+
+Employee #5: 
+Enter 4-digit SSN: 7309
+Enter name: Tom
+Enter position: Human Resources
+Enter annual salary: $37300 
+
+********************************************************
+Your final results for each employee's salary: 
+
+
+Ssn: 7473
+Name: Fred
+Position: Software Developer
+Salary: $57750.0
+
+Ssn: 1522
+Name: Anna
+Position: Manager
+Salary: $47000.0
+
+Ssn: 8351
+Name: Ben
+Position: Accountant
+Salary: $33500.0
+
+Ssn: 6220
+Name: Joan
+Position: Teacher
+Salary: $39900.0
+
+Ssn: 7309
+Name: Tom
+Position: Human Resources
+Salary: $40300.0
+ericadamian@Erics-MBP-2 employee % 

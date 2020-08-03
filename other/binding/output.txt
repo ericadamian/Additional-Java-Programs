@@ -1,0 +1,22 @@
+ericadamian@Erics-MBP-2 binding % javac Area.java
+ericadamian@Erics-MBP-2 binding % java Area      
+Execution time for dynamic binding: 3.005331 ms
+Execution time for static binding: 0.441456 ms
+
+Static binding is faster than dynamic binding.
+
+ericadamian@Erics-MBP-2 binding % javac Area.java
+ericadamian@Erics-MBP-2 binding % java Area      
+Execution time for dynamic binding: 3.626746 ms
+Execution time for static binding: 0.630594 ms
+
+Static binding is faster than dynamic binding.
+
+ericadamian@Erics-MBP-2 binding % javac Area.java
+ericadamian@Erics-MBP-2 binding % java Area      
+Execution time for dynamic binding: 3.002551 ms
+Execution time for static binding: 0.574387 ms
+
+Static binding is faster than dynamic binding.
+
+ericadamian@Erics-MBP-2 binding % 
