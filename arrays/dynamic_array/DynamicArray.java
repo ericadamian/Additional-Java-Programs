@@ -1,4 +1,4 @@
- public class DynamicArray{
+public class DynamicArray{
 
 	public int size;
 	public int[] A;
